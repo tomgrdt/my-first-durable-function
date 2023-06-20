@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "my_first_durable_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7024",
+      "launchBrowser": false
+    }
+  }
+}
